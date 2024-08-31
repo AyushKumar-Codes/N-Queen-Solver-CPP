@@ -18,7 +18,7 @@ A C++ program that solves the N-Queens problem by placing N queens on an NxN che
 ## Flowchart
 Below is a flowchart illustrating the working of the N-Queens Problem Solver.
 
-!![Flow_chart](https://github.com/user-attachments/assets/702f0fd8-99d4-45b1-8d3d-bca1265570ad)
+![Flow_chart](https://github.com/user-attachments/assets/702f0fd8-99d4-45b1-8d3d-bca1265570ad)
 
 
 
