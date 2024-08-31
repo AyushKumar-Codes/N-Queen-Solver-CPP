@@ -41,8 +41,6 @@ Here are some screenshots demonstrating the program in action:
 ![Screenshot 2024-08-31 174808](https://github.com/user-attachments/assets/78ae5815-d959-4f8b-ba51-cb5a25b1e540)
 
 
-*(Replace `path/to/initial-setup.png`, `path/to/solving.png`, etc., with the actual paths to your screenshots in the repository.)*
-
 ## Installation
 1. Clone the repository:
    ```bash
